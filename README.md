@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm currently learning Backend Web Development but especially in relational databases (mainly PostreSQL), Spring Boot, Docker and Kubernetes.
 <!--
 **kamil20020/kamil20020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
