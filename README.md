@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently learning Backend Web Development but I'm especially interested in Java, Spring (Java framwework), databases (mainly PostreSQL), Docker and Kubernetes.
+I'm currently learning Backend Web Development but I'm especially interested in Java, Spring (Java framwework), databases (mainly PostreSQL), Docker, Kubernetes and message queues (mainly RabbitMQ - got info that its easier to learn than Kafka).
 <!--
 **kamil20020/kamil20020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
